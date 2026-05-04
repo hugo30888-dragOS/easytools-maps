@@ -1,0 +1,10 @@
+{
+  "name": "Toyota 36-2",
+  "teeth": 36,
+  "missing": [34,35],
+  "rpm": 1100,
+  "cmpSyncTooth": 6,
+  "cmpWidth": 2,
+  "ckp": {"pin":12,"relay":13,"type":"hall"},
+  "cmp": {"pin":14,"relay":15,"type":"hall"}
+}

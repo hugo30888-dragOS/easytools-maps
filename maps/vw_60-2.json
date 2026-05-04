@@ -1,0 +1,10 @@
+{
+  "name": "VW 60-2",
+  "teeth": 60,
+  "missing": [58,59],
+  "rpm": 1000,
+  "cmpSyncTooth": 10,
+  "cmpWidth": 2,
+  "ckp": {"pin":12,"relay":13,"type":"hall"},
+  "cmp": {"pin":14,"relay":15,"type":"hall"}
+}
