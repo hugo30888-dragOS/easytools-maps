@@ -1,0 +1,10 @@
+{
+  "name": "Debug Slow",
+  "teeth": 60,
+  "missing": [58,59],
+  "rpm": 300,
+  "cmpSyncTooth": 3,
+  "cmpWidth": 20,
+  "ckp": {"pin":12,"relay":13,"type":"hall"},
+  "cmp": {"pin":14,"relay":15,"type":"hall"}
+}
